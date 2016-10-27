@@ -1,7 +1,18 @@
 .gray {
-    background-color: gray
+    background-color: red
 }
-
+.orange {
+    background-color: yellow 
+}
+.yellow {
+    background-color: orange
+}
+.purple {
+    background-color: blue
+}
+.blue {
+    background-color: purple
+}
 .show-grid {
     margin-bottom: 15px;
     text-align: center;
